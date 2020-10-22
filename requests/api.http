@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.in/Renewed-FX505DY-BQ002T-15-6-inch-5-3550H-Graphics/dp/B07QYNGFBQ/ref=lp_14647043031_1_10?s=computers&ie=UTF8&qid=1574420831&sr=1-10"
+}

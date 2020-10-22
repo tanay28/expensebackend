@@ -1,0 +1,6 @@
+{
+	"mongoURI_LOCAL": "mongodb://127.0.0.1/users",
+	"mongoURI_MongoAtlas" : "mongodb+srv://root:toor@exmanager-hsfu5.mongodb.net/users?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000",
+	"mongoURI_AtlasEmp": "mongodb+srv://Fakhruddin:d2qZVLMBdhQmiY11@newcluster-0ljdg.mongodb.net/test?retryWrites=true&w=majority"
+}
